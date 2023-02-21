@@ -1,1 +1,15 @@
+<bug_report>
+    <id>1111</id>
+    <title>eye icon does nt displayed</title>
+    <step_1>switch to russian</step_1>
+    <step_2>click on create account button in header or on bunner</step_2>
+    <step_3>in registration form enter your password</step_3>
+    <expected_result>the eye icon is displayed and it is clickable</expected_result>
+    <actual_result>the eye icon is not displayed but it is clickable on the intended place of it is location</actual_result>
+    <attachments>link</attachments>
+    <emvironment>Opera Google Hrome</emvironment>
+    <severity>major</severity>
+    <priority>high</priority>    
+    <qa_engineer>Ulia Solo</qa_engineer>
+</bug_report>
 
