@@ -1,0 +1,10 @@
+<employee>
+    <name>Ulia</name>
+    <surname>Solo</surname>
+    <age>30</age>
+    <pet>
+        <dog>Chip</dog>
+        <cat>Django</cat>
+    </pet>
+    <salary>1000</salary>
+</employee>
